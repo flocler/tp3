@@ -1,0 +1,74 @@
+nav {
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 9px;
+}
+nav li a {
+	color: #DCDCDC;
+}
+nav li a:hover { 
+    color:#00008B;
+}
+
+header {
+	font-family: 'Raleway';
+}
+
+header h1, header h4 {
+	color:white;
+	background-image: url "assets/indexbanner-bg3.jpg";
+}
+
+
+.servicios {
+	color:#1C1C1C;
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+}
+.services h4 {
+	font-weight: bold;
+	text-transform: uppercase;
+	color:#1C1C1C;
+}
+
+.beneficios {
+	font-family:'Raleway', sans-serif;
+	font-size: 12px;
+}
+
+.beneficios h5 {
+		font-weight: bold;
+		text-transform: uppercase;
+}
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}
+
+.precios{
+	font-family:'Raleway', sans-serif;
+}
+
+.precios h3 {
+	font-size: 42px;
+	font-weight: bold;
+}
+.checkout.html {
+	background: #00BFFF;
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+
+.footer1 {
+	background: #142D3F;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
+.footer2 {
+	background: #091722;
+}
+
+
